@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wyden.venda.VendaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.060 s -- in com.wyden.venda.VendaApplicationTests
